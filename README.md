@@ -24,6 +24,6 @@ the image data format is .jpg, the video data format is .mp4, .mov, the annotati
 ## Annotation content
 the urban refined management categories in the images were annotated with rectangular bounding boxes
 ## Accuracy rata
-the error bound of each vertex of quadrilateral bounding box is within 3 pixels, which is a qualified
+the error bound of each vertex of quadrilateral bounding box is within 3 pixels, which is a qualified annotation, the accuracy of bounding boxes is not less than 95%; the accuracy of label annotation is not less than 95%
 # Licensing Information
 Commercial License
