@@ -3,7 +3,7 @@
 ## Description
 10 Categories – 8,085 Groups of Urban Refined Management Data. The collection scenes include street, snack street, shop entrance, corridor, community entrance, construction site, etc. The data diversity includes multiple scenes, different time periods(day, night), different photographic angles. The urban refined management categories in the images were annotated with rectangular bounding boxesThis data can be used for tasks such as urban refined management.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1092?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1092?source=Github
 
 
 # Specifications
